@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.fibo {
+    width: 25rem;
+    height: 15rem;
+    background: #9b257e63;
+    box-shadow: 0 0 1rem 0 #3e0c3263;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.25rem; 
+}
+
+button {
+    border-top: 4px solid #3a55e963;
+}
